@@ -1,0 +1,28 @@
+// 繁体
+module.exports={
+    app:{
+        yu:'樂魚網',
+        part:'科技兼職',
+        recruitment:'招聘需求',
+        login:'登入',
+        registered:'注册',
+    },
+    home:{
+        talent:'人才來源',
+        browse:'瀏覽科技',
+        release:'發佈招聘需求',
+        class:'快速到班',
+        trading:'擔保交易',
+        gold:'託管雇傭金',
+        contract:'簽訂合同',
+        acceptance:'工作驗收',
+        security:'兼職保障',
+        registration:'登記科技簡歷',
+        employers:'雇主保障'
+    },
+    jianzhi:{
+        place:'工作地點',
+        registration:'登記科技簡歷',
+        release:'發佈招聘需求'
+    }
+}
