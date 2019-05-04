@@ -1,0 +1,28 @@
+// 英语
+module.exports={
+    app:{
+        yu:'nets',
+        part:'part-time',
+        recruitment:'recruitment',
+        login:'login',
+        registered:'registered',
+    },
+    home:{
+        talent:'talent',
+        browse:'browse',
+        release:'release',
+        class:'class',
+        trading:'trading',
+        gold:'gold',
+        contract:'contract',
+        acceptance:'acceptance',
+        security:'security',
+        registration:'registration',
+        employers:'employers'
+    },
+    jianzhi:{
+        place:'place',
+        registration:'registration',
+        release:'release'
+    }
+}
